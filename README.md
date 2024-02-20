@@ -61,3 +61,31 @@ Da la informacion meteorologica del pais y es facil de visualizar una vez dentro
 
 
 ![](https://i.blogs.es/9f858d/sunny-app-tiempo-1/450_1000.webp)
+
+
+
+
+
+#Aplicación Meteorológica para Android utilizando Kotlin
+
+•Este proyecto consiste en el desarrollo de una aplicación meteorológica para dispositivos Android, implementada utilizando el lenguaje de programación Kotlin. La aplicación utiliza la biblioteca Retrofit para realizar peticiones a una API de predicción meteorológica y mostrar los datos correspondientes en la interfaz de usuario.
+
+#Características del Proyecto
+
+Integración de Retrofit para realizar peticiones HTTP.
+Uso de una API de predicción meteorológica para obtener datos en tiempo real.
+
+Implementación de una interfaz de usuario intuitiva y atractiva para mostrar la información meteorológica.
+
+#Contenido del Proyecto
+Código Fuente: El código fuente de la aplicación se encuentra en la carpeta app/src/main/java.
+Recursos de Diseño: Los archivos XML de diseño se ubican en la carpeta app/src/main/res/layout.
+Explicación del Código: Se proporciona una explicación detallada del código en el archivo CodeExplanation.md.
+
+##Uso del Proyecto
+Clona el repositorio a tu máquina local.
+Abre el proyecto en Android Studio.
+Ejecuta la aplicación en un emulador o dispositivo Android.
+¡Explora la predicción meteorológica en tiempo real!
+
+ 
